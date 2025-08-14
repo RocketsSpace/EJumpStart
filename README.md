@@ -1,0 +1,3 @@
+<img width="1130" height="632" alt="image" src="https://github.com/user-attachments/assets/bf5611c4-b25f-43d4-8a87-eca5e204d38c" />
+E-Jump-Start is a small project made for Hack Club Daydream's JUMPSTART.
+"Yin Fails to find Yang" because... Yang fell into the floating point zone...
