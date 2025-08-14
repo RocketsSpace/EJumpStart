@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>東方 JumpStart</title>
+</head>
+<body>
+    <header>
+        <h1>東方 JumpStart</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome</h2>
+            <p>This is a simple page outline.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 東方 JumpStart</p>
+    </footer>
+</body>
+</html>
